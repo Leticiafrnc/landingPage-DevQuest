@@ -1,4 +1,4 @@
-# Lading Page - DevQuest
+# Landing Page - DevQuest
  Esse projeto foi desenvolvido para estudo, no curso [DevQuest](https://www.linkedin.com/school/devquest-dev-em-dobro/about/). Objetivo dele é treinar HTML e CSS utilizando flexbox e grid no css.
 
 <h4 align="center"> 
